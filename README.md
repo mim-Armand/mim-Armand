@@ -1,4 +1,8 @@
 ### Hi there 👋
+Name is mim. Armand. A solutions architect, in st. Louis, Missouri.
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/3dots/).
+
 
 <!--
 **mim-Armand/mim-Armand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
