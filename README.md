@@ -1,7 +1,9 @@
 ### Hi there 👋
 Name is mim. Armand. A solutions architect, in st. Louis, Missouri.
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/3dots/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/3dots/).
+
+And [Twitter](https://twitter.com/mim_Armand)!
 
 
 <!--
